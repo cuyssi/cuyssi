@@ -18,7 +18,7 @@ Estoy emocionada por este viaje en el desarrollo web, donde cada línea de códi
 
 📫 Cómo contactarme  
 `   Correo: [cuyssi@hotmail.com]`  
-`   LinkedIn: [Ana](https://www.linkedin.com/in/ana-castro-a476b8346/)`  
+`   LinkedIn: [Ana]` (https://www.linkedin.com/in/ana-castro-a476b8346/) 
 `  ¡Gracias por visitar mi perfil!`  
 
 Aprender cosas nuevas es mi nueva adicción 🤩  
