@@ -6,6 +6,7 @@
 Estoy emocionada por este viaje en el desarrollo web, donde cada línea de código es una nueva oportunidad para crecer y crear. Me gusta enfrentarme a desafíos y seguir explorando este increíble mundo de la tecnología. Y aunque me está costando pillarle el truco, creo que me estoy enarmorando de Js 🥰.
 
 
+
 🔧 Tecnologías y herramientas que voy a estudiar:
 
 📌 HTML, CSS, JavaScript
@@ -18,6 +19,7 @@ Estoy emocionada por este viaje en el desarrollo web, donde cada línea de códi
 
 
 
+
 🌱 Objetivos:
 
 Mejorar mis habilidades como desarrollador Full Stack
@@ -25,6 +27,7 @@ Mejorar mis habilidades como desarrollador Full Stack
 Contribuir a proyectos open source
 
 Seguir aprendiendo y disfrutando del proceso 🚀
+
 
 
 📫 Cómo contactarme
