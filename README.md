@@ -17,7 +17,7 @@ Estoy emocionada por este viaje en el desarrollo web, donde cada línea de códi
 -   Seguir aprendiendo y disfrutando del proceso 🚀 
 
 📫 Cómo contactarme  
--   Correo: [cuyssi@hotmail.com]  
+-   Correo: [anabcastrolopez@gmail.com]  
 -   LinkedIn: [Ana] (https://www.linkedin.com/in/ana-castro-a476b8346/)
 
    Gracias por visitar mi perfil!  
