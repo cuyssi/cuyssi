@@ -1,26 +1,31 @@
-💻 Sobre mí
+## 💻 Sobre mí
 
-¡Hola! 👋 Soy Ana, me acabo de embarcar en este apasionante mundo de la programación y he descubierto que me encanta 😍. Actualmente estoy es un bootcamp de Desarrollo Web Full Stack en factoriaF5. Esta experiencia está siendo un "cambio de chip" en mi vida, estoy feliz de aprender nuevas tecnologías y mejorar mis habilidades cada día.  
+Hola, 👋 Soy Ana! Hace poco que me he embarcado en este apasionante mundo de la programación... y he descubierto que me encanta! 😍
+Acabo de terminar un bootcamp de Desarrollo Web Full Stack en Factoria F5. Esta experiencia ha sido un verdadero “cambio de chip” en mi vida. Ahora continúo aprendiendo por mi cuenta, repasando más exhaustivamente lo que ya vimos en clase y explorando nuevas tecnologías.
 
-🚀 En constante aprendizaje:  
-Estoy emocionada por este viaje en el desarrollo web, donde cada línea de código es una nueva oportunidad para crecer y crear. Me gusta enfrentarme a desafíos y seguir explorando este increíble mundo de la tecnología. Y aunque me está costando pillarle el truco, creo que me estoy enarmorando de Js 🥰.  
+En clase trabajamos con tecnologías como:  HTML, CSS, JavaScript, Node.js, React, Python, Django
 
-🔧 Tecnologías y herramientas que voy a estudiar:  
--    📌 HTML, CSS, JavaScript  
--    📌 Node.js, Express   
--    📌 React, Vue.js  
--    📌 Git & GitHub.  
+## 
 
-🌱 Objetivos:  
--   Mejorar mis habilidades como desarrollador Full Stack
--   Contribuir a proyectos open source  
--   Seguir aprendiendo y disfrutando del proceso 🚀 
+Actualmente dedico mi tiempo a realizar proyectos con backend (usando FastAPI) porque fue la parte que menos vimos en clase y es la que más me interesa reforzar.
+También me está llamando mucho la atención el mundo de las automatizaciones: estoy empezando a trastear con triggers y N8N.
 
-📫 Cómo contactarme  
--   Correo: [anabcastrolopez@gmail.com]  
--   LinkedIn: [Ana] (https://www.linkedin.com/in/ana-castro-a476b8346/)
+##
 
-   Gracias por visitar mi perfil!  
+⚠️ Todos los proyectos que encontrarás aquí tienen un objetivo didáctico. 
+  
+💬 Estoy en pleno proceso de aprendizaje, así que puede que alguna parte del código no sea la más limpia o directa. Si ves algo que pueda mejorarse y te animas a darme una alternativa, te estaré súper agradecida.
+Tengo claro que la mejor forma de aprender es escuchando... así que no te cortes! 😉  
 
-Aprender cosas nuevas es mi nueva adicción 🤩  
-¡Siempre abierto a colaborar y aprender juntos! 😊
+##
+
+📫 Cómo contactarme:  
+
+Correo: anabcastrolopez@gmail.com  
+LinkedIn: [Ana Castro](https://www.linkedin.com/in/anabcastro/)  
+
+##
+
+Aprender cosas nuevas se ha convertido en mi nueva adicción 🤩  
+¡Siempre abierta a colaborar y seguir aprendiendo juntas/os! 😊
+
